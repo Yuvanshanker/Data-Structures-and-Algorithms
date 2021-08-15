@@ -59,4 +59,4 @@ if __name__ == '__main__':
     print("Deleting linked list")
     llist.deleteList()
  
-    print("Linked list deleted")
+    print(Linked list deleted)
