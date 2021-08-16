@@ -16,4 +16,4 @@ def getOddOccurrence(arr, arr_size):
 arr = []
 arr = list(map(int,input("Enter the elements ").split()))
 n = len(arr)
-printgetOddOccurrence(arr, n)
+print(getOddOccurrence(arr, n))
