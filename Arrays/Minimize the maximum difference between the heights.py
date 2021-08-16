@@ -14,4 +14,4 @@ def getMinDiff(arr, n, k):
 arr=[]
 arr = list(map(int,input("Enter the elements ").split()))
 k=6
-print(getMinDiff(arr,len(arr),k))
+printgetMinDiff(arr,len(arr),k)
