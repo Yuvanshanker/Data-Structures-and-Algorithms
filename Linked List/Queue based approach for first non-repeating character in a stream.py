@@ -34,4 +34,4 @@ def firstnonrepeating(Str):
 # Driver Code
 MAX_CHAR = 26
 Str = "aabc"
-firstnonrepeating(Str)
+firstnonrepeatingStr
