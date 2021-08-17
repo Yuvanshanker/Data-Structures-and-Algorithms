@@ -104,4 +104,4 @@ if __name__ == "__main__":
     N = 2
     head = rotate(head, N)
  
-    printListhead
+    printList(head)
