@@ -5,7 +5,7 @@ class Node:
         self.prev = prev # reference to previous node in DLL
         self.data = data
  
-def pushhead, new_data:
+def push(head, new_data):
  
     new_node = Node(data = new_data)
  
