@@ -84,4 +84,4 @@ if __name__ == '__main__':
     head = addOne(head)
  
     print("\nResultant list is: ", end="")
-    printListhead
+    printList(head)
