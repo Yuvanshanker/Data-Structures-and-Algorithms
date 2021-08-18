@@ -114,4 +114,4 @@ L.head.right.right.right = L.push(L.head.right.right.right, 20);
 # flatten the list
 L.head = L.flatten(L.head);
  
-L.printList
+L.printList()
