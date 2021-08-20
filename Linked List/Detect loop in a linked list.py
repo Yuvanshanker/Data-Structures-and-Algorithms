@@ -63,4 +63,4 @@ llist.head.next.next.next.next = llist.head
 if(llist.detectLoop()):
     print("Loop found")
 else:
-    print("No Loop ")
+    print("No Loop "
