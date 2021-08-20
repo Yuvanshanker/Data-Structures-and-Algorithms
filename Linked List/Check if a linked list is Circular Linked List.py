@@ -52,4 +52,4 @@ if __name__=='__main__':
     if (Circular(llist.head)):
         print('Yes')
     else:
-        print('No')
+        print('No'
