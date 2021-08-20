@@ -16,4 +16,4 @@ position = 2
 splitArr(arr, n, position)
  
 for i in range(0, n):
-    print(arr[i], end = ' '
+    print(arr[i], end = ' ')
