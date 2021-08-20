@@ -20,4 +20,4 @@ def printArray(arr, size):
 arr = []
 arr = list(map(int,input("Enter the elements ").split()))
 leftRotate(arr, 2, 7)
-printArray(arr, 7)
+printArray(arr, 7
