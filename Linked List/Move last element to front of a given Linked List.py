@@ -62,4 +62,4 @@ if __name__ == '__main__':
     llist.printList()
     llist.moveToFront()
     print ("Linked List after moving last to front ")
-    llist.printList
+    llist.printList()
