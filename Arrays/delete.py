@@ -9,4 +9,4 @@ print (arr)
 # otherwise shows error not in list
 arr.remove(key)
 print("Array after deletion")
-printarr
+print(arr)
