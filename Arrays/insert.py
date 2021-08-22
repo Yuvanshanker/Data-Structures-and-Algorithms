@@ -13,4 +13,4 @@ print (arr)
 # array after Inserting element
 insert(arr, key)
 print("After Inserting: ")
-print arr
+print (arr)
